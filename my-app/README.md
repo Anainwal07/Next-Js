@@ -5,3 +5,7 @@ Day 1 :-
 . Learnt about advantages of Next Js in your projects
 . Learnt about the file Structures of Next js.
 . Learnt in depth about the Routing system of Next js i.e File system based routing .
+
+Day 2 :-
+. Learnt how to work with images , links and global Css and module.css
+. FrontEnd Completed
